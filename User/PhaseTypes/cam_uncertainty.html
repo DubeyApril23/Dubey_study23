@@ -183,6 +183,9 @@ write a protocol for Indu and her undergrad
 <input type="hidden" id="vid_rt"            name="vid_rt">
 
 <script>
+Phase.set_timer(function(){
+  baseline_time=(new Date()).getTime();
+})
 locks_obj = {
   left_locks:    "{{left_locks}}",
   right_locks:   "{{right_locks}}",
@@ -228,7 +231,8 @@ $(window).bind('keydown', function(event) {
             $("#block_right_lock_" + i).show();
           }
   			  locks_obj.locks_clicked++;
-  			  $("#lock_" + locks_obj.locks_clicked + "_rt").val(Phase.elapsed());
+  			  var current_rt = (new Date()).getTime() - baseline_time;
+  			  $("#lock_" + locks_obj.locks_clicked + "_rt").val(current_rt);
   			  $("#left_lock_" + (locks_obj.locks_clicked)).fadeOut(1000, function(){
   			    if($(".left_lock:visible").length == 0){                            // if there are now no visible locks, it's time to show the video:
   			      $("#left_right_chosen").val("left");                              // storing which side the user chose
@@ -257,7 +261,8 @@ $(window).bind('keydown', function(event) {
                     $("#left_video").show();                                      // show the chosen video
                     $("#left_video")[0].play();                                   // play the chosen video
                     $("#left_video").on('ended',function(){                       // when the video finishes:
-                      $("#vid_rt").val(Phase.elapsed());                          // store the time it took to get to this point
+                      var current_rt = (new Date()).getTime() - baseline_time;
+                      $("#vid_rt").val(current_rt);                          // store the time it took to get to this point
                       Phase.submit();                                             // move on to the next Phase
                     });
                   }
@@ -286,7 +291,8 @@ $(window).bind('keydown', function(event) {
 			 
   			  $("#right_lock_" + (locks_obj.locks_clicked + 1)).fadeOut(1000, function(){
   			    locks_obj.locks_clicked++;
-  			    $("#lock_" + locks_obj.locks_clicked + "_rt").val(Phase.elapsed());
+  			    var current_rt = (new Date()).getTime() - baseline_time;
+  			    $("#lock_" + locks_obj.locks_clicked + "_rt").val(current_rt);
   			    if($(".right_lock:visible").length == 0){                           // if there are now no visible locks, it's time to show the video:
   			      $("#left_right_chosen").val("right");                             // storing which side the user chose
               $("#type_chosen").val(locks_obj["right_type"]);                   // storing what type of stimuli the user chose (e.g. social vs. nonsocial)
@@ -312,7 +318,8 @@ $(window).bind('keydown', function(event) {
       				      $("#right_video").show();                                   // show the chosen video
                     $("#right_video")[0].play();                                // play the chosen video
                     $("#right_video").on('ended',function(){                    // when the video finishes:
-                      $("#vid_rt").val(Phase.elapsed());                        // store the time it took to get to this point
+                     current_rt = (new Date()).getTime() - baseline_time;
+                      $("#vid_rt").val(current_rt);                        // store the time it took to get to this point
                       Phase.submit();                                           // move on to the next Phase
                     });
                   } 
