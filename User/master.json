@@ -16077,7 +16077,7 @@
       },
       "cam_1_7_new": {
         "all_procs": {
-          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,block_lock_img,lock_time,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,survey,,,off,dubey_april23_pis.csv,,,,,,,,,,,,\r\n0,survey,,,off,dubey_april23_cf.csv,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b>These boxes are linked with the same set of videos </span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b> However, one box opens at the same delay (3 seconds) while the other opens at a variable delay (0,3,6 seconds). </span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_uncertainty,,,trial,,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,pink,green,certain,uncertain,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_uncertainty,,,trial,,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,green,pink,uncertain,certain,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,scarred_survey.csv,,,,,,,,,,,,\r\n0,survey,,,off,intolerance to uncertainty.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>Click on \"\"Proceed\"\" to save your data. </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>You've completed this part of the study! </span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed, and DO NOT CLOSE THE WINDOW before you have received confirmation that the data has been successfully submitted </span></b>\",off,,,,,,,,,,,,,",
+          "procedure_1.csv": "item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,block_lock_img,lock_time,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,survey,,,off,dubey_april23_pis.csv,,,,,,,,,,,,\r\n0,survey,,,off,dubey_april23_cf.csv,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b>These boxes are linked with the same set of videos </span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b> However, one box opens at the same delay (3 seconds) while the other opens at a variable delay (0,3,6 seconds). </span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_uncertainty,,,trial,,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,pink,green,certain,uncertain,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_uncertainty,,,trial,,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,green,pink,uncertain,certain,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,scarred_survey.csv,,,,,,,,,,,,\r\n0,survey,,,off,intolerance to uncertainty.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>Click on \"\"Proceed\"\" to save your data. </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>You've completed this part of the study! </span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed, and DO NOT CLOSE THE WINDOW before you have received confirmation that the data has been successfully submitted </span></b>\",off,,,,,,,,,,,,,\r\n,,,,,,,,,,,,,,,,,",
           "procedure_2.csv": "item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,block_lock_img,lock_time,left_color,right_color,left_type,right_type,left_instruction,right_instruction,\r\n0,survey,,,off,dubey_april23_pis.csv,,,,,,,,,,,,\r\n0,survey,,,off,dubey_april23_cf.csv,,,,,,,,,,,,\r\n0,survey,,,off,cam_demographics.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:20px\"\"><b>You will see two boxes with locks</span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b>These boxes are linked with the same set of videos </span></b><br>\r\n<br>\r\n<span style=\"\"font-size:20px\"\"><b> However, one box opens at the same delay (3 seconds) while the other opens at a variable delay (0,3,6 seconds). </span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Open the locks to see a video</span></b><br>\r\n<span style=\"\"font-size:20px\"\"><b>You can choose freely which locks to open</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u class=>Z</u> key once for each lock on the <u>left box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Press the <u>M</u> key once for each lock on the <u>right box</u> to unlock it</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>Wait until a lock has disappeared before you try to open another lock</span></b><br><br>\r\n<span style=\"\"font-size:20px\"\"><b>You cannot change your mind about which video you want to choose once you've opened a lock</span></b>\",off,,,,,,,,,,,,,\r\n2 to 31,cam_uncertainty,,,trial,,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,green,pink,certain,uncertain,Press Z to unlock,Press M to unlock,\r\n32 to 61,cam_uncertainty,,,trial,,../User/Stimuli/cam/pink.jpg,../User/Stimuli/cam/green.jpg,../User/Stimuli/cam/lock1.jpg,../User/Stimuli/cam/lock1_crossed_out.jpg,1000,pink,green,uncertain,certain,Press Z to unlock,Press M to unlock,\r\n0,survey,,,off,scarred_survey.csv,,,,,,,,,,,,\r\n0,survey,,,off,intolerance to uncertainty.csv,,,,,,,,,,,,\r\n0,instruct,,\"<span style=\"\"font-size:40px\"\"><b>Click on \"\"Proceed\"\" to save your data. </span></b><br><br> \r\n<span style=\"\"font-size:25px\"\"><b>You will receive a debrief of this study in an email.</span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>You've completed this part of the study! </span></b><br><br>\r\n<span style=\"\"font-size:25px\"\"><b>Please proceed, and DO NOT CLOSE THE WINDOW before you have received confirmation that the data has been successfully submitted </span></b>\",off,,,,,,,,,,,,,"
         },
         "all_stims": {
@@ -17369,7 +17369,68 @@
           "withdrawal_code_show": "<div>\n  <h1>Important information before you finish</h1>\n  \n  Thank you for participating! If you would like to withdraw, please e-mail the following code to the researcher:\n  \n  <h1 class=\"text-primary\" id=\"withdrawal_code\"></h1>\n  <button class=\"btn btn-primary\" onclick=\"Trial.submit()\">Proceed</button>\n  \n</div>\n\n<script>\n\nTrial.set_timer(function(){\n  $(\"#withdrawal_code\").html(Trial.get(\"withdrawal_code\"));\n},100);\n</script>"
         },
         "location": "DubeyApril23/Dubey_study23/cam_1_7_new",
-        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,redcap_url,\r\ncondition_1,Uncertainty task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,\r\ncondition_2,Uncertainty task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,",
+        "conditions": [
+          [
+            "name",
+            "notes",
+            "stimuli",
+            "procedure",
+            "fullscreen",
+            "welcome",
+            "participant_id",
+            "end_message",
+            "start_message",
+            "buffer",
+            "download_at_end",
+            "redcap_url",
+            ""
+          ],
+          [
+            "condition_1",
+            "Uncertainty task",
+            "stimuli_1.csv",
+            "procedure_1.csv",
+            "on",
+            "",
+            "on",
+            "",
+            "",
+            "5",
+            "on",
+            "https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php",
+            ""
+          ],
+          [
+            "condition_2",
+            "Uncertainty task",
+            "stimuli_1.csv",
+            "procedure_2.csv",
+            "on",
+            "",
+            "on",
+            "",
+            "",
+            "5",
+            "on",
+            "https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php",
+            ""
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
         "boosts": {},
         "mods": {},
         "storage_scripts": {},
@@ -23900,7 +23961,7 @@
         },
         "location": "DubeyApril23/Dubey_study23/cam_2_7_new",
         "boosts": {},
-        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,sensory,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,sensory,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
+        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,redcap_url,\r\ncondition_1,sensory,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,\r\ncondition_2,sensory,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,",
         "mods": {},
         "storage_scripts": {},
         "phasetypes": {
@@ -31676,7 +31737,7 @@
         },
         "location": "DubeyApril23/Dubey_study23/cam_3_7_new",
         "boosts": {},
-        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
+        "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,redcap_url,\r\ncondition_1,social task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,\r\ncondition_2,social task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,",
         "mods": {},
         "storage_scripts": {},
         "phasetypes": {
@@ -63912,7 +63973,7 @@
       "instruct_keyboard": "<!--\r\n/*  Collector (Garcia, Kornell, Kerr, Blake & Haffey)\r\n    A program for running experiments on the web\r\n    Copyright 2012-2016 Mikey Garcia & Nate Kornell\r\n\r\n\r\n    This program is free software: you can redistribute it and/or modify\r\n    it under the terms of the GNU General Public License version 3 as published by\r\n    the Free Software Foundation.\r\n\r\n    This program is distributed in the hope that it will be useful,\r\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\n    GNU General Public License for more details.\r\n\r\n    You should have received a copy of the GNU General Public License\r\n    along with this program.  If not, see <http://www.gnu.org/licenses/>\r\n \t\t\r\n\t\tKitten/Cat release (2019-21) author: Dr. Anthony Haffey \r\n*/\r\n-->\r\n<style>\r\n  #instruct_text {\r\n    margin: auto;\r\n    width: 500px;\r\n    padding: 50px;\r\n    max-height: 600px;\r\n    text-align: center;\r\n  }\r\n  #trial_contents {\r\n    position: absolute;\r\n    top: 0;\r\n    bottom: 0;\r\n    left: 0;\r\n    right: 0;\r\n    margin: auto;\r\n    width: 600;\r\n    height: 600;\r\n  }\r\n  * {\r\n    cursor: none;\r\n  }\r\n</style>\r\n<div id=\"trial_contents\">\r\n  <div id=\"instruct_text\">{{text}}</div>\r\n</div>\r\n\r\n<script>\r\n  $(window).bind(\"keydown\", function (event) {\r\n    Phase.submit();\r\n  });\r\n</script>\r\n",
       "instruct": "<!--\r\n/*  Collector (Garcia, Kornell, Kerr, Blake & Haffey)\r\n    A program for running experiments on the web\r\n    Copyright 2012-2016 Mikey Garcia & Nate Kornell\r\n\r\n\r\n    This program is free software: you can redistribute it and/or modify\r\n    it under the terms of the GNU General Public License version 3 as published by\r\n    the Free Software Foundation.\r\n\r\n    This program is distributed in the hope that it will be useful,\r\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\n    GNU General Public License for more details.\r\n\r\n    You should have received a copy of the GNU General Public License\r\n    along with this program.  If not, see <http://www.gnu.org/licenses/>\r\n\r\n\t\tKitten/Cat release (2019-2022) author: Dr. Anthony Haffey\r\n*/\r\n-->\r\n<style>\r\n  #instruct_text {\r\n    margin: auto;\r\n    width: 500px;\r\n    padding: 50px;\r\n    max-height: 600px;\r\n    text-align: center;\r\n  }\r\n  #proceed_button {\r\n    position: absolute;\r\n    right: 20px;\r\n  }\r\n  #trial_contents {\r\n    position: absolute;\r\n    top: 0;\r\n    bottom: 0;\r\n    left: 0;\r\n    right: 0;\r\n    margin: auto;\r\n    width: 600px;\r\n    height: 600px;\r\n  }\r\n</style>\r\n<div id=\"trial_contents\">\r\n  <div id=\"instruct_text\">{{text}}</div>\r\n  <div>\r\n    <button\r\n      class=\"btn btn-primary\"\r\n      id=\"proceed_button\"\r\n      onclick=\"Phase.submit()\"\r\n    >\r\n      Proceed\r\n    </button>\r\n  </div>\r\n</div>\r\n"
     },
-    "file": "cam_uncertainty",
+    "file": "cam_2",
     "filetype": "",
     "graphic": {
       "files": [],

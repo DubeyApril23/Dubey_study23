@@ -635,7 +635,7 @@
   },
   "location": "DubeyApril23/Dubey_study23/cam_2_7_new",
   "boosts": {},
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,\r\ncondition_1,sensory,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,\r\ncondition_2,sensory,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,forward_at_end,redcap_url,\r\ncondition_1,sensory,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,\r\ncondition_2,sensory,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,",
   "mods": {},
   "storage_scripts": {},
   "phasetypes": {
