@@ -127,6 +127,9 @@
 <input type="hidden" id="vid_rt"            name="vid_rt">
 
 <script>
+Phase.set_timer(function(){
+  baseline_time=(new Date()).getTime();
+})
 locks_obj = {
   left_locks:   "{{left_locks}}",
   right_locks:  "{{right_locks}}",

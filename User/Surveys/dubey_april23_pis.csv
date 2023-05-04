@@ -1,12 +1,15 @@
 item_name,text,type,answers,values,optional,side_by_side,
-Instructions1,"<h1>PARTICIPANT INFORMATION SHEET </h1>
+Instructions1,"<h1>Participant Information Sheet </h1><br><br>
 
-<h2>Study Title: Nature of co-occurring anxiety in autism</h2>
-<h2>Research Ethics Reference: FMHS 52-0822</h2>
-<h2> Version 1.0    Date:  11 November 2022</h2>
+<h4>Study Title: Nature of co-occurring anxiety in autism<br>
 
-<h3>Name of Lead Investigator: Dr Indu Dubey, Assistant Professor, University of Nottingham</h3>
-<h3>Name of Co-investigator: Dr Anthony Haffey, Lecturer, University of Reading</h3>
+<h4>Research Ethics Reference: FMHS 52-0822<br>
+
+<h4> Version 1.0    Date:  11 November 2022<br><br>
+
+<h4>Name of Lead Investigator: Dr Indu Dubey, Assistant Professor, University of Nottingham</h4>
+<h4>Name of Co-investigator: Dr Anthony Haffey, Lecturer, University of Reading</h4><br><br>
+
 
 <h4>Invitation paragraph</h4>
 We would like to invite you to take part in a research study.  Before you decide, it is important for you to understand why the research is being done and what it will involve. One of our team will go through the information sheet with you and answer any questions you have.   Please take time to read this carefully and discuss it with others if you wish.  Ask us anything that is not clear.<br><br>
@@ -67,7 +70,7 @@ The lead investigator at the University of Nottingham and is being funded by Uni
 <h4> What if there is a problem?</h4>
 If you have a concern about any aspect of this project, please speak to the Principal Investigator Indu Dubey, who will do their best to answer your query.  The researcher should acknowledge your concern and give you an indication of how he/she intends to deal with it.  If you remain unhappy and wish to complain formally, you can do this by contacting the FMHS Research Ethics Committee Administrator, Faculty Hub, Medicine and Health Sciences, E41, E Floor, Medical School, Queen’s Medical Centre Campus, Nottingham University Hospitals, Nottingham, NG7 2UH or via E-mail: FMHS-ResearchEthics@nottingham.ac.uk. Please quote ref no: FMHS 52-0822.<br><br>
 
-If you would like to discuss the research with someone beforehand (or if you have questions afterwards), please contact: <br>
+<h4> If you would like to discuss the research with someone beforehand (or if you have questions afterward), please contact: </h4><br>
 Dr Indu Dubey<br>
 Assistant Professor Psychology<br>
 Academic Unit of Mental Health & Clinical Neurosciences,<br>
@@ -76,5 +79,5 @@ Institute of Mental Health, <br>
 Innovation Park, Triumph Road,<br>
 Nottingham, NG7 2TU<br>
 Email: indu.dubey2@nottingham.ac.uk<br>",instruct,,,,,
-Info_Accept,"<h3>Name of Lead Investigator:  Principal Investigator: Dr Indu Dubey, Assistant Professor, University of Nottingham</h3>",likert,Agree,1,No,yes,
+Info_Accept,<h5>Do you agree to take part in the study</h5>,likert,Agree,1,No,yes,
 ,,,,,,,
