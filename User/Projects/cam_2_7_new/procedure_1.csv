@@ -2,7 +2,7 @@ item,phasetype,max_time,text,shuffle_1,survey,weight,left_back,right_back,lock_i
 0,instruct,,"<video width=""600"" height=""400"" controls>
   <source src=""../User/Stimuli/cam/cam_sensory_1.mp4"" type=""video/mp4"">
   Your browser does not support the video tag.
-</video>",off,,,,,,,,,,,,,,
+</video>",off,,0,,,,,,,,,,,,
 0,survey,,,off,dubey_april23_pis.csv,1,,,,,,,,,,,,
 0,survey,,,off,dubey_april23_cf.csv,1,,,,,,,,,,,,
 0,survey,,,off,cam_demographics.csv,,,,,,,,,,,,,
